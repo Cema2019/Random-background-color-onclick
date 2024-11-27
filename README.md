@@ -4,3 +4,5 @@ Live Demo
 
 https://cema2019.github.io/deploying-a-static-site-with-netlify-sample/
 
+https://random-color-switcher.netlify.app/
+
